@@ -10,5 +10,8 @@
 ### 2022-08-05 Week 02
 
 - [ ] [백준 파이썬 배우기 001~050](https://www.acmicpc.net/workbook/view/459)
+
+### 2022-08-09 Week 03
+
 - [ ] [백준 파이썬 배우기 051~100](https://www.acmicpc.net/workbook/view/460)
 - [ ] [백준 파이썬 배우기 101~150](https://www.acmicpc.net/workbook/view/461)
